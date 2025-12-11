@@ -35,4 +35,4 @@ Designed for isolated, local use under a single NAT network.
 
 ## Repository Structure
 
-Each technique entry is documented in a compact, repeatable format—context & scope → commands executed → expected results/artifacts—with optional OPSEC/detection notes, mitigations, and references.
+Each technique entry is documented in a compact, repeatable format : context & scope -> commands executed -> expected results/artifacts with optional OPSEC/detection notes, mitigations, and references.
