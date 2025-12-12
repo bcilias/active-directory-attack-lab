@@ -1,7 +1,7 @@
 # Active Directory Attack Lab
 
 A practical, reproducible AD lab that models a small corporate network (DC + 2 clients + Kali).  
-It documents end-to-end attack paths—from initial access through domain compromise and post-exploitation—along with the exact commands and scripts used.  
+It documents end-to-end attack paths from initial access through domain compromise and post-exploitation along with the exact commands and scripts used.  
 Designed for isolated, local use under a single NAT network.
 
 ---
